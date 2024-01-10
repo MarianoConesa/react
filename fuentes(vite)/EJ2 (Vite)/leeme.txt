@@ -1,0 +1,1 @@
+main.jsx se coloca en ...../src sustituyendo al que hay
